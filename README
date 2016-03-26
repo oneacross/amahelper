@@ -1,0 +1,33 @@
+Goal:
+* Create some charts to give to Sam.
+    Emailed text instead of charts.
+* Create scripts to help parse the hundreds of requests for Sam Harris' AMA.
+* Want to create high level context and concepts.
+* Present to Sam before Monday [Done].
+
+TODO:
+* Add my tags to the popular comments.
+* Want something similar to git ls, git ls --grep blah, git ls -c
+* Git - Get by author name.
+* Git - Sort by score.
+* Git - Grep body.
+* Git - Create a couple nice formats.
+
+Deliverables:
+1. Chart plotting the scores of all the comments over time.
+   Have ability to jump to reddit comment.
+   Shows bias towards earlier scores.
+2. Word frequency bubble image.
+   With stop-words.
+3. Ability to search for given text and plot the total score
+   and the scores over time.
+4. Plot the spread of scores with mean, median, mode on chart.
+
+Done:
+* Show the tags of the popular comments.
+* Email Sam Harris.
+* Show the most popular tags of mine (by accumulated score and by number of posts).
+* Use score instead of ups.
+* Find the kosher way to login to the reddit API.
+* Scrape more data from the reddit comment object like id, post date.
+
